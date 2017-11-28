@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/kenygia/VP_ProductDetectDefector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kissou/SC_ProductDefectDetector" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/sclass" />
   </component>
 </application>
